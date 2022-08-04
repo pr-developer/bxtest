@@ -7,8 +7,8 @@
 
 Страницы фронта:
 - [Главная страница](https://pr-developer.github.io/bxtest/index.html) 
-- [Раздел с исполнителями](https://pr-developer.github.io/bxtest/index.html)
-- [Детальная страница исполнителя](https://pr-developer.github.io/bxtest/index.html)
+- [Раздел с исполнителями](https://pr-developer.github.io/bxtest/artists-list.html)
+- [Детальная страница исполнителя](https://pr-developer.github.io/bxtest/artist.html)
 
 # Задание 
 
